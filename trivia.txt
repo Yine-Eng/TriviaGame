@@ -1,0 +1,60 @@
+(1)When was Bluefield State University established?
+1: 1880
+2: 1895
+3: 1990 
+4: 1885
+2
+(2)In what year was the school gymnaisum bombed?
+1: 1968 
+2: 1986 
+3: 1998 
+4: 1926
+1
+(3)How many students are in the school's Honors Program
+1: 16 
+2: 20
+3: 24 
+4: 28
+1
+(4)What was the Bluefield State University originally called?
+1: Bluefield Colored Institue
+2: Bluefield State Teachers College 
+3: Bluefield State College 
+4: Bluefield State Honors College
+1
+(5)Which state is Bluefield State Universiity in
+1: Virgina 
+2: West Virgina 
+3: North Carolina
+4: South Carolina
+2
+(6)Which boxing champion held exhibitions in the university gymnasium?
+1: Mohammed Ali 
+2: Mike Tyson 
+3: Joe Loius 
+4: Joe Fraizer
+3
+(7)Which Harlem Renaissance era poet and activist read poetry on the school campus
+1: Langstan Hughes 
+2: Gertude Rainey 
+3: Claude McKay 
+4: Ethal Waters
+1
+(8)How many times has Bluefield State University won the International Ground Vehicle Competion?
+1: Three times 
+2: Four times 
+3: Two times 
+4: Once 
+3
+(9)How many continents are in the world?
+1: 7 
+2: 5 
+3: 6 
+4: 8
+1
+(10)Which continent is the largest in the world
+1: Asia 
+2: Europe: 
+3: Africa 
+4: North America
+1
